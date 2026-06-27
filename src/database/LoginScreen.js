@@ -175,10 +175,10 @@ const LoginScreen = () => {
                 <Text style={styles.socialText}>G</Text>
               </TouchableOpacity>
               <TouchableOpacity style={styles.socialButton}>
-                <Text style={styles.socialText}>f</Text>
+                <Text style={styles.socialText}>F</Text>
               </TouchableOpacity>
               <TouchableOpacity style={styles.socialButton}>
-                <Text style={styles.socialText}>🍎</Text>
+                <Text style={styles.socialText}>A</Text>
               </TouchableOpacity>
             </View>
 
